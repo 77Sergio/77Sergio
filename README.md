@@ -1,6 +1,5 @@
 - 👋 Hola, soy Sergio Castañeda
 - 👀 Estoy interesado en JavaScript y PHP
-- 🌱 Estoy aprendiedo React y Laravel
 - 💞️ Estoy buscando siempre colaborar
 - 📫 castanedasergio@hotmail.com
 
